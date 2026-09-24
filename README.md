@@ -1,4 +1,7 @@
-# RLFactorSynth 
+<div style="text-align: center">
+<img src="img/schematic-diagram.png" width="400">
+</div>
+
 
 ### Nathan Delcid
 
