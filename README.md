@@ -1,5 +1,5 @@
-<div style="text-align: center">
-<img src="img/schematic-diagram.png" width="400">
+<div style="text-align: center;">
+  <img src="./img/schematic-diagram.png" width="500" alt="Schematic diagram">
 </div>
 
 
